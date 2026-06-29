@@ -1,0 +1,4 @@
+Provider,GPU_Model,Sticker_Price,Interconnect,Effective_Price_Training
+Lambda_Labs,H100_SXM5,3.29,InfiniBand,4.22
+RunPod,H100_SXM5,3.89,Ethernet,6.48
+Vast.ai,H100_SXM5,3.50,Ethernet,5.83
